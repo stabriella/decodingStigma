@@ -1,0 +1,91 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 100px;
+  }
+
+  .banner {
+    padding-top: 10px;
+    margin: 0 auto;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .banner img {
+    display: block;
+    margin: auto;
+    max-width: 80%;
+    height: auto;
+  }
+
+  .intro {
+    width: 70%;
+    min-height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .introLang {
+    padding-left: 8px;
+    font-size: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: orator-std, monospace;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .nav {
+    min-height: 500px;
+    width: auto;
+    background-color: #7FFF00;
+    padding-bottom:100px;
+
+  }
+
+  .serveHead {
+    padding-left: 8px;
+    font-size: 100px;
+    text-align: center;
+    padding: 25px;
+    font-family: 'Monsieur La Doulaise', cursive;
+  }
+
+  .gridContain {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 1rem;
+  }
+
+  .grid > div {
+    background: black;
+    padding: 1rem;
+  }
+  
+  .grid > div::before {
+    content: "";
+    /* padding-bottom: 100%; */
+    display: block;
+    padding: 150px;
+  }
+
+  .square {
+    background: black;
+    text-align: center;
+    font-family: orator-std, monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: white;
+  }
+
+  .square:hover {
+    background-color:#DCDCDC;
+    color: black;
+  }
