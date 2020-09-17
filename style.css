@@ -75,6 +75,7 @@ html, body {
     padding: 150px;
   }
 
+
   .square {
     background: black;
     text-align: center;
@@ -86,6 +87,57 @@ html, body {
   }
 
   .square:hover {
-    background-color:#DCDCDC;
-    color: black;
+    background-image:url("assets/glitch1.png");
+    background-size: cover;
+    /* color: black; */
+   
+  }
+
+  .square2 {
+    background: black;
+    text-align: center;
+    font-family: orator-std, monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: white;
+  }
+
+  .square2:hover {
+    background-image:url("assets/glitch2.png");
+    background-size: cover;
+    /* color: black; */
+   
+  }
+  .square3 {
+    background: black;
+    text-align: center;
+    font-family: orator-std, monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: white;
+  }
+
+  .square3:hover {
+    background-image:url("assets/glitch1.png");
+    background-size: cover;
+    /* color: black; */
+   
+  }
+  .square4 {
+    background: black;
+    text-align: center;
+    font-family: orator-std, monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: white;
+  }
+
+  .square4:hover {
+    background-image:url("assets/glitch1.png");
+    background-size: cover;
+    /* color: black; */
+   
   }
