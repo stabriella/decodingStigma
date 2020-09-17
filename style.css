@@ -120,7 +120,7 @@ html, body {
   }
 
   .square3:hover {
-    background-image:url("assets/glitch1.png");
+    background-image:url("assets/glitch3.png");
     background-size: cover;
     /* color: black; */
    
@@ -136,7 +136,7 @@ html, body {
   }
 
   .square4:hover {
-    background-image:url("assets/glitch1.png");
+    background-image:url("assets/glitch4.png");
     background-size: cover;
     /* color: black; */
    
