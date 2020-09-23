@@ -141,3 +141,23 @@ html, body {
     /* color: black; */
    
   }
+
+
+  /* For navigation pages */
+
+  .introBack {
+    width: 50%;
+    min-height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .introLangBack {
+    padding-left: 8px;
+    font-size: 20px;
+    text-align: center;
+    text-justify: inter-word;
+    font-family: orator-std, monospace;
+    font-weight: 400;
+    font-style: normal;
+  }
