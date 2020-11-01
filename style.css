@@ -1,7 +1,6 @@
 html, body {
     margin: 0;
     padding: 0;
-    padding-bottom: 50px;
   }
 
   .banner {
@@ -144,9 +143,18 @@ html, body {
 
   .footer {
     width: 70%;
-    padding-top: 50px;
+    padding-top: 20px;
     margin-right: auto;
     margin-left: auto;
+  }
+
+  .introLang {
+    padding-left: 8px;
+    font-size: 20px;
+    text-align: center;
+    font-family: orator-std, monospace;
+    font-weight: 400;
+    font-style: normal;
   }
 
 
