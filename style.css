@@ -87,7 +87,7 @@ html, body {
   }
 
   .square:hover {
-    background-image:url("assets/glitch1_resize.png");
+    background-image:url("assets/glitch1_resize.jpg");
     background-size: cover;
     /* color: black; */
    
@@ -104,7 +104,7 @@ html, body {
   }
 
   .square2:hover {
-    background-image:url("assets/glitch2_resize.png");
+    background-image:url("assets/glitch2_resize.jpg");
     background-size: cover;
     /* color: black; */
    
@@ -120,7 +120,7 @@ html, body {
   }
 
   .square3:hover {
-    background-image:url("assets/glitch3_resize.png");
+    background-image:url("assets/glitch3_resize.jpg");
     background-size: cover;
     /* color: black; */
    
@@ -136,7 +136,7 @@ html, body {
   }
 
   .square4:hover {
-    background-image:url("assets/glitch4\ _resize.png");
+    background-image:url("assets/glitch4\ _resize.jpg");
     background-size: cover;
     /* color: black; */
    
